@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Member.cpp
+  MemberManager.cpp
+  Question2.cpp
+  Generating Code...
+u:\question2\member.cpp(87): warning C4715: 'Member::operator>': not all control paths return a value
+u:\question2\member.cpp(125): warning C4715: 'Member::operator<=': not all control paths return a value
+  Question2.vcxproj -> U:\Question2\Debug\Question2.exe
